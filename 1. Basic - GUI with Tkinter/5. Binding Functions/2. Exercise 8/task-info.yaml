@@ -1,0 +1,56 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 252
+        length: 159
+        placeholder_text: '# TODO make the counter decrease by 1 before updating the text
+      of label1.'
+        initial_state:
+          length: 73
+          offset: 252
+        initialized_from_dependency: false
+        encrypted_possible_answer: Gj72mlH0z5rSoE7x7vIfir2depSSH42ndzGNCjjyige8vfAkNZA2VFSQa8FHOHdUz++nqFrx4yDq61IJ4HNmgNG+bEaXdGeJyxSCMtwwnHbBAyNSFb0WoNuqrkZBmZ0I
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 822
+        length: 10
+        placeholder_text: '# TODO insert the input event to bind to'
+        initial_state:
+          length: 40
+          offset: 736
+        initialized_from_dependency: false
+        encrypted_possible_answer: WPnTJ6R/zxzNgyz5+KsTmg==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 835
+        length: 14
+        placeholder_text: insert the name of the function that decreases the counter
+        initial_state:
+          length: 58
+          offset: 779
+        initialized_from_dependency: false
+        encrypted_possible_answer: FLULtdMCl7tdnHRCic9zFg==
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpixq7oS49Gy+0sqqhcJ4wMPmr/TFBQwm8RlUZPSkdZBKEHglZplOVGCf/6KzikT6ck3nDtAoQVvykVs/qzVQ++PUghjqIc2cNFWY8Q1+n7jHJtzKQlhZlHlzbrhvHr1pD2JPSLFdlPfAqheX+TJP5jE3UpbpgEe6retrdC9mNDM9I496eUf27ZwZvwq7qHAOQtBQfCiQx1wIoKUGXMuf7wrBlxk24U0sMh7SpT+/ygPi0Z3cSa6TTaugVvFF5uuYYRT8AHmKo7DwTqds5hnjwmz5/A/+V1rMJhaSa6sXyLi6Tddi0utZFhPTxByehnonNAHaOA1L8UTqivDaXtSlKF5wH9XIKzzShYlnNP7SLpJ4kw95QkXn9RA/R3WxgAsOGbRHSOctQHq97G2NZeTVx+KlyhbVQmRnPLnChw9807880B5rU1kN/xGI7LbYZ4csLmyXooDcKZEoKOB/iXnW7R9NsebuZhto4wvqUH75lcnh/NIiUK6zugj1MxDDWC5VL1YbkkANY+pmsKXzpJ7pR2zi+tLFxy9ItFS41fFX2jrKqwitKSYDutzV4brPIV9wBKv5XK2BnxFk7frgwrKLaz/688UNwZYLV/bpbvEDRpP99GCmOfvuuVV42v4oWJfr+0uNEXDLujwLBXf3UknxKSaS/wAyX1MQC377RRp/TNDxaOYfqIuP3qeeZxh7Vd732ALYgzVaxjYAkvZPuMVWBx8Pi+BkBKrK1DcCl1+wZDlvn1uR2xs3GkPNZ+H2/FunEZqUCUVDWpGH5K45G3MBU0WUL1leSPOH00boFM7R+UrHIXCFowuWsKUxPUU/PdeDQEjBWAt5flTsDMpGDBVzAnWV7tfvf7KuaXNw6a+X8vU8Qog/RlBhJCZWojAS12xNWZJU0PmRKI6V3Frlo3Au8jP0bysdE80PqmcmZLAWaoGF5u/LuXsTwYRC07CoUHCVEBC6incFnnz/ZnFWMIPzn6UXvSYTmihPWNSFgHukDtDmfEndFylTZcYBzIPafWuYD1sIEHdv9BFxYicgE1KAeit3N8f7bn4fNEJ1cW1qaoX5WjVtYSFddL+GpXMnWhtXWk5/AN16eU9J4sUMKgKSUf7yr89vIAxLj1tbm/T5eVHqIg==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

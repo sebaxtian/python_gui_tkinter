@@ -1,0 +1,89 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    placeholders:
+      - offset: 91
+        length: 162
+        placeholder_text: '# TODO declare/create your frames here'
+        initial_state:
+          length: 38
+          offset: 91
+        initialized_from_dependency: false
+        encrypted_possible_answer: CVPFtxSfLFx8ooNjFUERod+J6iCEcOTNAZqx39OMrqqCo0wnE0Yr7pi9vAmZ0IDJ81is2ATEhCqZb76UMQmDZLYWUq11V0asZiwNI2nxBfX42T/Pljd3ADOrZL8JG8jwwKr3iIYfzZmqwGU7okofYhWLuV1rkEwskXcKFprZRzKk+zOt8mwk0O23/YEPzpQd
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 271
+        length: 128
+        placeholder_text: '# TODO pack your frames here'
+        initial_state:
+          length: 28
+          offset: 147
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8UCcyXhQHwPLSJIMy29sHdi37EdjNf47f9NQdAI5wNjbr+2ELBl6ke0qALbXHLRYUERnPSgF2zSOXzFUiDLVFztVTogIy/8/Nw7/kC47PIVuIf8orbY2BkvRw7jAeqRn6rdXe5kB2Tp6S40PAhzMoA==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 476
+        length: 115
+        placeholder_text: '# TODO create your second Label here'
+        initial_state:
+          length: 36
+          offset: 252
+        initialized_from_dependency: false
+        encrypted_possible_answer: +E0qwdD066c6Bc9XpEe4K4B4w2UdQTTKRGFuYBzMcycek8mLRIFObImI+x7VisJMEeSObg7CDoaE2wHDbyoTlo9yDFk8lvlCJ6G+sjLNXK8=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 592
+        length: 274
+        placeholder_text: '# TODO create your 4 buttons here'
+        initial_state:
+          length: 33
+          offset: 289
+        initialized_from_dependency: false
+        encrypted_possible_answer: YNPLm2QUJTtHXMNC94Bj23vKlqn8Dnj8+B4m4KvLoEjzIFcdX05XIHAgqHuachHzcxcN8jSimYkYB2pi/TThiilFCBAjgxiaLgSzm8RVeLhbv8shxKqzUsa6xyRbyCI3w7F5XMDMjGgdbXmvLYDlkx0DKI4uxu2Hdj3DtPW0kbveBi3s8W8SRVTngdmrf7LdfAhR39NwVhJZN1sDmVO1e1g7of55Y9iDnPPgnylSYeAFpS1cothNK5JkncyrmgWOIStDx2NcvlUPtB6NeiHInuSjRnQ12ysU2/4LI5ZDrRLN8HlQJ7CjDwPcYQaSPbHBcM9cZoF9xPIWXR7FCiJS1g==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 881
+        length: 160
+        placeholder_text: '# TODO don''t forget to pack all your new widgets!'
+        initial_state:
+          length: 49
+          offset: 337
+        initialized_from_dependency: false
+        encrypted_possible_answer: OhzxD9ftdCUZPuEtAYrpECmz4eew31Wz6srZnv5IcXMiuc1lhRIUoIMVp/wuR+NNF/mWpHsSgkcCxJdIoQbQzFHAOTds+Sn36NcCNQj2nzpRm4pRaI5xdQ+4Xm6d9FmK2AFbPBt82my8YiACn9/bWJ4Qh3Xvt9UUoQ7yqTJ9RdI=
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: d+D+QzTJQMiLAT8kopI+L780i7iXfTKFoiaaXTe1Te6bS/3MgkqRdHe5UYwFGtwBNmCNQD6K87RWj8zUPH1WztVnXGQnPQyCqOnkjqm59dK0o4R5ttYQfHviZlzyNnSacfsm08+wj+PcpKb+jDIfoLxGoMxjLAtX0aQ38oqh4+iBq2UQXfKsJE10JEQB9S6GJ/unwomAKGC/R0d6YMRaW5P9psmCWppO/a1awekdMHMhjG70bMODlLFpZze5s2tHPAnDecOQBwj/STfUH7FMXtMkdFCHb1XSiavOCG+Fo+NuxLdHAbtfYr+4kZ+Olx75OylbDo1KCjk1hF1PhUplUXyxJ3hlUhURKVfkafSQbE+zmsMK7fZ+68/jSSTv/EvLEX4vXT5Ut7/snt4v1ZrysI5Xwi65t3ACHGUUqFzZf+S+ioBLlhZvGWxXcLDUfJMhPA8PJW/NcfsNqxgkTs0csOte/bHszMbIEdwvMZsFQJG2KY0wnuwdqU4GCWn7FiOGXhobdNJgitPys01ZF59GDSkGRlUGc2+Ynix7OpOUMhA=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: example.bmp
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_mac.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_win.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

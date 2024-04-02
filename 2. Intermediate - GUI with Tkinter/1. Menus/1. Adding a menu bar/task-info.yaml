@@ -1,0 +1,55 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 124
+        length: 38
+        placeholder_text: '# TODO create the window'
+        initial_state:
+          length: 24
+          offset: 124
+        initialized_from_dependency: false
+        encrypted_possible_answer: VSNqshU5wmBIJNFJ4g0HGw==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 169
+        length: 54
+        placeholder_text: '# TODO give your window a title'
+        initial_state:
+          length: 31
+          offset: 156
+        initialized_from_dependency: false
+        encrypted_possible_answer: zVdYYNyBaKept9VLbOBVExLhoDel5kpp8NMKs6ZfrivbiY4gZjrMLGyiYHrhR0SF
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 230
+        length: 84
+        placeholder_text: '# TODO give your window some geometry - 400x300 should be ok.'
+        initial_state:
+          length: 61
+          offset: 195
+        initialized_from_dependency: false
+        encrypted_possible_answer: uf8ndjtFPCZSc3dXZEkUVloaspbLC2C9GrQrP+ovuq4=
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwvl8GSqzEZGBUdqlRJffiSNHhs54sgu2nIZoL+ZepF/CN9hw/O1RUR9UIGoBcTTDQzUqazomOsBqCNRwvfxURM4McA1+uKEVMGBqzGX3Y8uyrS+bG0SilPFy2JNx2AKTC7uvPLE4YNz+LYw9HjdvFjxpwYRrSBrMysS8+zQhq/fzUmez8yrE9YP1I/je0r8umKL3Q4oMpdLR+MAJyS0osHRMdvYxoW8VMh9KxyH8IV7/9IgKxfnueJnMoKgRuigoNIGycutkCJ6ToMp7CKOCa1ucIUZz+Cv2vERmW7RTwYI/sEqNCIbWqFBns/Jj4XTm9vSR0+2ylZH1tzS6cf9lXY5e5TEFo/SB/hxTKQNHAJqGsB8DanskKs8wUFcxo3reHZr8uDTVLK5w/b2Mv4KGI5Ef6Owkwy/PoG38hWmrEaMoqiIwHy+acTumKryZmlQTE8Jp2B69gIjkI1swWER6ZYRHrMc7DdMzy514+FVjPc5T96QnHRMukxUA+W2WcU0cLydvBTwnlo9UkViEAslVAWeu4mc6cgTxcvlgoNetpkF5F6d5R7zrR17po5GaAe/CQK36HqRnR5Q9ac+plb1e6pUuaQHB8U/r/CCi33ONVC44HRkbVIq6FcCfH0n89xy7pgpuz9MoP3NZ5lOQz1anHi
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

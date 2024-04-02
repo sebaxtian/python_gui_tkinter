@@ -1,0 +1,79 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 59
+        length: 59
+        placeholder_text: '# TODO import messagebox'
+        initial_state:
+          length: 24
+          offset: 59
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2O1smSaeUTZxtTQpWy4ApA==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1427
+        length: 73
+        placeholder_text: '# TODO create button1 with the command option runing the confirm
+      function'
+        initial_state:
+          length: 73
+          offset: 1392
+        initialized_from_dependency: false
+        encrypted_possible_answer: PwXphS46cYbMgv6cCTKJCmMkuOxVdX8tRgX7ewWixGuF9wZi42ZFyFeHjXI0tPR/
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1728
+        length: 78
+        placeholder_text: "# TODO place label3 at row 3, column 0 and radio_button3 at\
+      \ row 3 and column 1"
+        initial_state:
+          length: 78
+          offset: 1693
+        initialized_from_dependency: false
+        encrypted_possible_answer: dm6ZZ9dayeWEw0IizT21xOXkGzEzxsoAwrL1ruX7GaqRA75fuGPbyDH5evUyN0QRef+Fs4rkBvtccICJH1pGDOvrr7P/RDATQVSH6/PpMRv73QTWh9mBiYL0b0GEFDhT
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1807
+        length: 46
+        placeholder_text: '# TODO place label4 and radio_button4 at row 4'
+        initial_state:
+          length: 46
+          offset: 1772
+        initialized_from_dependency: false
+        encrypted_possible_answer: kERZWF5xYvvPz5WeeiIu1/cxnd2WsQZHcAl2wT3Emj/OVB6fC6rOWiz2DQjJFN48uuZ1vO9UtadA9g/dvRHgvyoLhhLjs+BqgQu3ils4aAUK1UqzZm6cyaJwyxf+Fov+
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1854
+        length: 46
+        placeholder_text: '# TODO place label5 and radio_button5 at row 5'
+        initial_state:
+          length: 46
+          offset: 1819
+        initialized_from_dependency: false
+        encrypted_possible_answer: boNGP2Qxxoi8gOBBlFQo38ZTCVvWrXUkMe8gVYiGYdmLluHzTJx8exGiO4KL3/a+urmFt5rlz7ZYzunvGkAyDqPl5BcSFNMUo+05spqho+dKVQKMMoUCq+WpRWkMU5wm
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwI3m3EJp54TLFTdZYoCS+sgOrzbk30SN2SO0v/8vNjAykBK93Z4UyXog2i2iuGaiYh55D++sMunJbhhDmCNUkn/hVsG4OJhnz3g0v1SmcsCDvXHE4fuR7grUxwaMO3EAkZrmCHh6ldKXWco4INlX3qjxBfDysf97GIoNej79lYUAcrSav0hH+FgHL6Ghlubu8wQ8OtgvD52H7MPCD6qZg/e3okiWVB2QXp+N6N9amnet2Y5XXdJL8wyo4AJiWLfZtBqLjw5Eo7gqBDWyq3BJzX9ncqlgZk4Nl1p99kixXhxh3SxOk/EBbxFe+KhNZScUF1SXSLcsIICmuAHfeoz8ydUbqeSOd9LvqKqyOkVrFXGght8gvV9hctH3+HNUz4r/qU1s5qVGiYNPaa70It/RL+WrOAVQWiBOvXk36HWMJCR3635qWdwKmS2A6nbSwz14ARTai8c77Pz3pxoGu9wmipCChffNWjkhiEK2tftbNJrWfkagg7xvQz6EyDptEXbd7Siy+VEOc8besJAEfwoIgQkjMrFn6ug575rZN0v+HWkvyH7Bv6QS+wi4DDCZvFkh8wKJuvX2/8lJs1v3Wg3IKRs7OZgsJO3nmkUCIaafeKYXPJ+h0AbmE+vToeY8xPuZ5Z/He4KOdOtxc5rXMkzwfQzjZHOPPYG4bPhjiKLvMkv5v/aoKjqVU3/C7qOthvaBwphKtTjbNkkh6v4R535WViNkLt0reIkt0NjhCpx+tBE3RUy/wbJj/vfns/I32vx8EZ1HZ7lTkIgyJIzWkItsab2dIeISr+hx7VT2i4RvueKMvLUgO8uedUgb2RqTUFi/Iwr+D0RANiuAayzEhYwbCE0MKTtfU+0tdwyn1lhjjVt3BgbHC9fokWOlDiRWdXi+mpK5uAluYp1HRS9H906UfPY5Lq2u5I5dkZN7kBwJC95rY8BrQMOYIVCELgcUyXW649q8WG3F7u4hyEGP1evzDRo3F7le0yk1Z05XfCSo+2fIfdEGNdY1V9ytwU7BFEDmnpiK6/OwaO2zyZi9BFjHnsmvMuYj78Ggefs/wQV/GQw+L0mwN9YJpRA8gYfpAYrpK/1A7NPA/z2PlTrCPatolDieUCe/NQcDuT0YZubw8Y8m68UyAMsUA/JkHcdqPjIns9rkm+yGzOXjBL1TjO9+eZ+BTAR5KAYZ03m1LCLf8CFOCWDPb45e7I3eepgv+D6gNPwcu4FmKKwKQtELbgWIdjgJX7zN4lSbPKRJHSCMFLtbdcxDnVg/phoIEMmmCcgVJJxcVZ+YO0OiWZg3Cc1CGfbP7KBurrpwdiQJCRPJ1xPB/lVkR6gz9pwRyb7+WrhGaB9c/TVSLP0uyev+JCqNaLzqTVK5uHnyZeUFvk9fAiNywLavGcQkN+4fh7wkDVz3MN6vYLQ/B+1wO4/7k04Ao2tLe5MyYWH/iUUvLMvfRtVTbX9/C5wbglb3zcu14b6jU+sm6oj/04w88G5m9jshqg+bSfsA0Mkz4V+iS+yjFYSOCelBgw+zhZgH8rBRC2Ro6wmd0/733ZABysErFjYTVqHCFKA5qnHOocd16We5N6SbJR1bsKzsYBCcIi1Qwz7xib0q4IbO92llo467Ng6JoU+Z5FCEd+Tz8q9oKz/cYWLRh85RZjtOK2QAgJphGGzD9GM+NWFGYH39rCsN9y86yolFyNOcFL2tolZhIJWosWfkQ8e8JRxNblZeEv4URxntvq0Zq8e7UY8qK0ZReLZPmVo5HLFEmbNuoe+7LWXi69NWxsaArV2T8rOrBnHkT3EHPk6XJGmi7UUXPB3fEbujzhOwEvmGmJUFL9wm6k7po2a9bRwVdM/s4o0IzTlllTlzAaHthS0O27KFHlCxcbswzkQ7YxROf1NvlTJRvAvDCfTYgAhf3upbbhQm+aDKEUGoksJd6vho4+TI5TO7lQYnN1QsNgf9LJKwehFg1/E67h0OjMNXj9/fsJJ6wi8XGNDJ5yju009yDKqFcD0i1+fWFlBPcKF3YZG+5h2nt9ada8xlXJhuPNy4oHncQ/1gyK74v9Xzv+9MtxteB4kle3n470CtNvj9Mn4OU/LpYDJA0DSY3zo10dXTBVIJqtvXs+68FXgY/GL1u6tnGpK5rH6xmKZlJPISBHLX2LaTW3LUx39F5OHbvRivQzJPH+EvSs+4/jwLJgqDjuiEE6OgEEEsNKmdSbY9QXrq+EIqdewnHS7mFFIqbXv4C6stcallG/iG2iahqpbBajIZMSbHHsfLYZaqOfFiLDnufwkJZ5YZRnMEigsHoPp8VYli8Y+psEM4hDjheW6porMDAgd/JWk5Vpn0heId6Su918PHDwuevdf1JWKcVMRBsKEjDjtc6cqsx/Gn1IyEDo+0y6n7o8xZ04CcIuEKH+xJj7u5HH0sZgjaA13rKVtJzc9FxyasxIu+PbjZJJ82uW7BjFuU4Vr8UM6fNFUr7fm3QXtEhlsrUHvzXCZLSkC3ttyx8ZZjD5iQWduOoLn4YEOpro6sEf1qy+CMlJIQCjLKKpcyO9+AQejOxkQ50i9eRAcGvr1klYIEJmdDDUeurgvNldaAK859OxIG0UD4LIZfoy+wY2EBU9qLjqV03EJXuIIRFEV6gbQkdDg2yTesqUYRi091t8k6lhPB7D+vRkyPyJV0DTFNfm0A==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

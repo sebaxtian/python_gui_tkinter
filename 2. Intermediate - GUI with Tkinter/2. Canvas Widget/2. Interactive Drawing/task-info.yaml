@@ -1,0 +1,67 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 537
+        length: 0
+        placeholder_text: '# TODO create a oval at the mouse position'
+        initial_state:
+          length: 42
+          offset: 537
+        initialized_from_dependency: false
+        encrypted_possible_answer: chQwYgFaa8VzFfAQn+0GVRgVq4XEwKt8tqm8VS+OWB6yk4PHPognlSOrWK6OtYK5OQsLgHRUCvAq7w0O8l6dpavJEDE+owvtWTHmPTxF4sg=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 639
+        length: 31
+        placeholder_text: '# TODO create the canvas widget'
+        initial_state:
+          length: 31
+          offset: 720
+        initialized_from_dependency: false
+        encrypted_possible_answer: mgBTLgsdrcovpbNIDWlKvA==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 732
+        length: 44
+        placeholder_text: '# TODO place the canvas widhet on the window'
+        initial_state:
+          length: 44
+          offset: 813
+        initialized_from_dependency: false
+        encrypted_possible_answer: qptQzhP8BBNmTJssZHEhIEa/hTBqbgkTRZqTOOaAh4IpmmQ4eUTyfdWqbB6mP1/R
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 812
+        length: 117
+        placeholder_text: '# TODO bind the input event for pressing the left mouse button
+      while moving the mouse to the draw_with_brush function'
+        initial_state:
+          length: 117
+          offset: 893
+        initialized_from_dependency: false
+        encrypted_possible_answer: LgEOt65jPwa2NJRqIzlxeyVWStuS64lKRkskwzPo3NU2UmV3CLh49xizLRLHBFyI
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwvl8GSqzEZGBUdqlRJffiSNHhs54sgu2nIZoL+ZepF/IAMBodU69SvQyNXh2WBU7Cz71wPp7/EllQj3wTp8nXrqqB8YSXC1JA9c5/KgozEQtr9eGeV3mDruVV3ezLoktRH3xj7hxO4d2SFv8RtfIZA090nkG2p2Az48ng5PA5pcE6372jcqylTrA/MVgrzLnm2CWvmeaSi9OydJnJnAmoXaqRkhZCberp1S0uet8H13BA+8F59gua8JmtgdMmzVbKPKSXI1POutjkYIMvIsas00Enmu1Lj+VTvwmENXLnR2rPOgv0AUzPYo0QuPhOzV7vl8zkg7Lf1K4HVdkv5VBKh4woQ3uHQzaRNRu4t4SLuCUdlw1yhjkL9ImUm9YrkPxfxgTGcPRp/5O6XISEUBO7J1Ppl1v++veWy2FTWgVWw4beKF4QkW/wjv7dDNji2H4viRWg+vGvU8cmEO35E447iBUMu9GqK/OPh4M3swr/BJFlauNC7KIdcSO8XL5Zj8VzI6e5g9ZH1oNPBhQO12FBc+Y5wE8a8FhdqlS4ODDETQsN++HCRgpCjKVziLnqhsFvnRtTynCWJJuMiEh7do4EyO3TeaShbqLu7/L6wp3zmHRysmjYzWt1Z5akDLSJ2j8WYNG24y24VK9STiUu+RtSsJiYHUMdv8U/+m/5Htl1kzzzzevnxpQDnBfYy6oFMBKwO3tbzhcsbbXn4UmU+Ew7CebgMg22H4qIf5E59z5/562mnLAlOIs/0b4dj6huw8HhKO8D77uayXbEjjsGgNT7kjZYKa9a3g9jTgbgyRflxqzIy7xtpz5nRWD9aEDeerDnEu1LhKZuHEHkDryPfoSA8FoH+eQ3+GgJJzXovIst4ZtxF+zhxk0s/ZCQ/WD+oc0KUjDvdzxTzKNhkuarDa5dQQ+nu+aKByhFJ+2+z7H1sBwLkPkftBIS6MzZUn7Acsgeif863bcshdb3QcjYuRy3nGK+HBkPDbRvkIu95YiokqZ4YIMuNPhKlo7EUC5zm0snRPADiMM1GebiYMq+SJkff4n2UT8We9S6VjTODWYCxvHOF3HmResvJbUjYPVwhTZVq5BlS/XOlwUW5qwGzXiTT9VuMMG8odNgrkgZkVKkxorY8GMCrOHB4YunAXTYj8Z1UZLHUDBVWUNcOn5zF98ClVJsqr8YuV1V+OAo6JmMDv8NBK6fH0U/m/aAbWGd/80ouGR5QfQB+uoCwK7t7sLPvm37/srz6wnVFV/Fp+UlBlvtHe39k6Dm2EPmkH5XUM1t+y0lWk431MUcq5E3924dIB6+NWGPGHFQl7etzORfs5W3SBbcUhNf+NqDuZUdAlIiqUIlTOZYprgMLtFx3OcJh
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

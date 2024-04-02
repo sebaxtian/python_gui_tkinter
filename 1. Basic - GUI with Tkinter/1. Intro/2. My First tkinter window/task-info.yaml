@@ -1,0 +1,44 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    placeholders:
+      - offset: 5
+        length: 44
+        placeholder_text: '# TODO import the tkinter module'
+        initial_state:
+          length: 32
+          offset: 7
+        initialized_from_dependency: false
+        encrypted_possible_answer: PYDfOH8NoD6AYAKzU58M5Q==
+        selected: true
+        status: Solved
+        is_visible: false
+      - offset: 124
+        length: 10
+        placeholder_text: '# TODO personalise your tkinter window'
+        initial_state:
+          length: 38
+          offset: 114
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2IlrcGfxZVUwT0afwuqMMA==
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: 4rDNUT6Qs7qfsOlC39BnMjVDl4bEdKMfsfIPlLt2+5zapkKuU+byV8C3UuH1bZ2jK2FQaBO/SKWElpppWMNQtVvQrKdZ8pqBAIn0j8E/USbNFfqo0W+Si76sp22pUIw8V4jRmrhmrDt8WqMFv7ig5wq7oC3ugdD86LvZde70YgznnvAb/tF1f8Mm64GP5QsuYrNM7B8ufOSEOf8GjuDGkHSyRNZvJfxD/SEh62WTlf+fykGpTezc0LGsisIu7Coo3sRXFqlxmB11PAa7OQ5JOTAoiZB7ZEh2L705cQGqf0pYMsbS96m/GgjhEXfQ14ycHJikfHW02peVnXVk0x2rvaqOuZI3wTBSYC+MkL06oxCfc3LgQXLAJ7rRTvEMuxbyNFvG0GX1mwZIFbe/h6cJNQPwM/6dXLUvSyFqYk9qdiM=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

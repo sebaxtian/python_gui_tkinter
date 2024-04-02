@@ -1,0 +1,52 @@
+type: theory
+files:
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: main.py
+    visible: true
+    placeholders:
+      - offset: 284
+        length: 70
+        placeholder_text: '# TODO create a red button'
+        initial_state:
+          length: 26
+          offset: 284
+        initialized_from_dependency: false
+        encrypted_possible_answer: PwXphS46cYbMgv6cCTKJCgJtIDqusJoGl6CQPrHjvCV8b3acvJZTeL02g/Gy/oXf
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 366
+        length: 131
+        placeholder_text: '# TODO create a blue button'
+        initial_state:
+          length: 27
+          offset: 322
+        initialized_from_dependency: false
+        encrypted_possible_answer: PwXphS46cYbMgv6cCTKJCvZG/SvFbnkGrnwbdp7jkvf7JYADWs4i1fA5c3WxZ7Zs
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwMY6zmRAexlTs7gcHYYJft4W0SyRlD78nGbrT0AXjyeO8UkTVbkiKs8EgqOorx5GzRMSLRiTMPJwQjFk2Ik25Lc3lzpyOiUaiXpoH76YJOomWelbGEE3i1Z7Pb88xM/txhvA3UllRyit6N1Atx+8/X9WpGcqViWhFzFnCMTkVKX3T/Iuk36WtriWs/A9Wcur4kwoefR8gHm6oCh5JfrD4+PWEXa93QDNi/Qydj6GwHsqbu0G3A0eZO0hM0ipjyrLHKTMMB6Ksmt+Ujy5aaB3jEZQU5SXKjGgip+7nSu/dCqmPVczoLUqLHJdapUlgKhjNDjKl5DSjHtyPVcp903tKfucBJvhGvxyrx40KaumQWo/VZyRsO8OVE/2IBlD+aV+HwjP7XGj2mhjtg0WuxktubA8ka3m0oEUQ7BHJ7mWUttgBWDFW4NIbD7/9Y7xP6bXIDmpsknwUg9EhtSvro1aRiHZeuQUEkx9smqArtGBrn9m1cGs35oNw/KLSF6POA4AyERVmJXOYEjtAW1mQ8upuhErFe4hnQxiUur1botlZkJtik+nlYzBE8+A2TB6w1d/rrRp2txFOYU14l+gUuMnZF6hEvoH5WyV9eiObaiH5atuUAuOiO200YRQB+Jvd08YM=
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: expected_output_mac.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_win.bmp
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

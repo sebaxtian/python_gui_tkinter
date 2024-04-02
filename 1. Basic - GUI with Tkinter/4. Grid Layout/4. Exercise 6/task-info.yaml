@@ -1,0 +1,52 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 142
+        length: 280
+        placeholder_text: '# TODO create 2 labels and 4 buttons'
+        initial_state:
+          length: 36
+          offset: 142
+        initialized_from_dependency: false
+        encrypted_possible_answer: XK2wmtunHS9Qm/F79rTlu9gLceGr4Aj45tkCNSgpFkkr4/c9SmdenS60YDUE8TBt5O32rwPHyhqXP05D7NbRxikge7IvC8mauTHtJ/e1u7ADJV4bhwi5lKX9JqWpOLy7yJj98c/wkTcjdV+CsfkqwpLzxiMVKLFCK4bSwjx4bmKmKxs8Wzwnn6QXgBqaRXZ/djLXFdpxTza+aC2983fBXbPNNlYuld7CD+W71v7hfWKILmI260gPpciyQlkTamsT6I9/vxWd59AUSpJIrB4XUo9CYqvlb6ixwTsiF2AgLiQktif9K0kdHMYakyqGBPKjCI5yfvgCDAQszfAtHK5OAw==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 484
+        length: 251
+        placeholder_text: '# TODO use a grid layout to position the widgets'
+        initial_state:
+          length: 48
+          offset: 240
+        initialized_from_dependency: false
+        encrypted_possible_answer: 03IMtp4EOHTheE2zQPBASGip8X0Nu9Ll71Dpalzfge3GEUp1yPYigSotgiD+fLqxJG4AlHWaWFcf1tIWGURKvmUKTPb32auXyXlPn06PMpwDIpwbJv1HhdSuFEZcEBVsIT+ik1rmgEWe45MAF7RRbF/tyROGYCfaXafxu2p1fXZZN+iQ1e8+MtXuVpZUEZ6AOcfqwEZT6LhY6pPYHpuzPEE5jQydxk8MDxpwqref+QRih157WyKRbzHZoj08vWF/NUdNYmJ2BSEwN33rHtAz6YueZQvms2r9B8P7wneGY6I=
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwMY6zmRAexlTs7gcHYYJftEiGpfSmJlfmibxyl7VJMlrHscauU1Vy+133LKHalIbgsVkoU9LepnRzrRcWwOu7w1xc1+gDTty7O6eqyWzBL6yMi2RaNz9BW2H4IHJGeTTJXqdHhHrSUkyk1wy8FgHRN12DZfNzLUpmmMofirEaZEvhN2xGSawbe2b6rFV9nL1V9Upf6lA6bmjE/+kUDDSmxnN+gjv9mO39F4kpa5hHm5WE7UqKE02tcu4y2uXavvEW26LGaDgqofqT3nINi3qsX11gweEBgepn+gpZQiXxXpOkgtCgdqjrgMp4mXkL1tGojanbu8S1VYl04t0K5xpALdKdmKXlL+HWR8juzI/sW2vHhfUejrNmnLommc3HPC4wK4IYCEXdAwffuUlfMItS9
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: expected_output.bmp
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_mac.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

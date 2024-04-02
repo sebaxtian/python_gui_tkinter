@@ -1,0 +1,67 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 552
+        length: 0
+        placeholder_text: '# TODO finish the declaration'
+        initial_state:
+          length: 29
+          offset: 552
+        initialized_from_dependency: false
+        encrypted_possible_answer: l3N3aXzagQvX7lhKgsaBAQ==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 998
+        length: 52
+        placeholder_text: '# TODO add a command called "Copy" to the popup_menu'
+        initial_state:
+          length: 52
+          offset: 1117
+        initialized_from_dependency: false
+        encrypted_possible_answer: h6QV65HWFtUeQgC8I1SNIfD5bOcFSDbN1MKI2McEeFj6lLBEpyukd7wfmWTLvnjV
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1062
+        length: 53
+        placeholder_text: '# TODO add a command called "Paste" to the popup_menu'
+        initial_state:
+          length: 53
+          offset: 1181
+        initialized_from_dependency: false
+        encrypted_possible_answer: K1IznBiWPMQ3ubhQRTWbr7FgAi0HwSLEHY0HeXCIXms=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1158
+        length: 95
+        placeholder_text: '# TODO bind the windows input event for the right mouse button
+      to the function popup_menu_event'
+        initial_state:
+          length: 95
+          offset: 1277
+        initialized_from_dependency: false
+        encrypted_possible_answer: mBC36rs/32KiEQ87KdMvz9Qy8fBhu5zU/AvEDrkYtITkOaQyeECpmgSzdb1UIjWz
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwvl8GSqzEZGBUdqlRJffiSNHhs54sgu2nIZoL+ZepF/CN9hw/O1RUR9UIGoBcTTDQzUqazomOsBqCNRwvfxURMtS2VbGDOuzjZNnBCblPl3u9S+ks5RobOs4emjD1qoEjLvT9yvHSSTznt+qLT9ajsdWE9eKqulim7bDEp8REz2pjRXh5/xWVn1fiuBRJg8JiOF/b5EIqsYFCcjZKnpcpptE13Qo/lMn0sfdQL+gwnNmgYuOpj+xIibxv9FlHPH1ikOfCV9cNUx2MncBqU95lxpDVCzgs0sKhgCJhVTBtY7XewMTZ+1b97t/gwETc6nRYahMw5/LhaS7coV8hlhpMj9deVF9zHo2VIufJDaG5lu6x5+X7JZzrME2ZTO1/MeO02u8fiYCbH4jF+uhC36e/Uz6Kc+g/VxFbql5cXFigkh5sPqJMs6Xhl4wHuYQFKYzMXqaB6rTOZCqD2ehDY9e5cofuAN3LUIi3YHFTp3LHvbg0+mHbBqpONo436bwxTo50oqdnPfAPvxRDjKrTScp1/5I9wfWroH56tpvbA4+pjjWN8oDWUoU9/umumgC2zeIbBWAoETdBJTx7OKiPRwSXVDXltXdS7CM7vk7zloU1osC8mDbchF4/i5UD0OLc/LBC75oj3hDkS3KPHupPGOpOWrch15G7SoWyjie8oAMF7Mx30iGoWZzlVX/zEIIG3+N56QyVQB5jk693RtoFiQ6TxN1/ggJYZ+/GribKo3qilE11wpYNtOqs/intx46LfN+0SZOv7MuDxULQdCVzZtfZyQgpTNBQIRRHQk6Tc6rnUDuXjGyNcatiaw+k9Out6PlxhonX2Zup8r35wJ/yUJqs6MqnNbXMkDoZA++naohaN/jUyOMJUWVrb9/m/MdKusNpMALffYJcWJ29b08mFSz0A/XfrUFYeByf+wrkFuCjj1jIn9LQSLa2vSmdJaJeDjg66uF/VpP/a561D2mAdB+I8ereQcuVH5965ds0USGmV7vGafzCKsWUNANKJAy5BQ8iUePl5mQrAY5dikzAr6WsEOP113x64xj6/NpUN5UJPupdMJGMZKZORab3gPoHvGTtaemhMKf5pCRLLHlsLxNo69uxXClwxtJZNI0k1YmkJW41TeDD2Sj1wNFOZI8o+be8kDlrqp77mIIec91uIRigeSaY3doiVlGkRryBnqYuwnDX4DqqJd3W6cIfzpJOMTRscHQIhUXJUCoLnS6wizYJNZp03FRt10rQCk69hqSZO0wx9QbTQqFhqh3L0F/FRZhkB3firPxeYfUahsep/v98sjq2vRaLQpEMitCrhTWv4iZ9t2ISo75dGTfU2ZLlY3AGv2LqJdQzVVAr3kYvvX6FLX+DAXeqBqWVNua7U1RXzqoU3NigcM+iE35IPJSJEJSS/52xV9Wqkl2PuKOAfn35RxvhDyr4ZdKl6cn6fEVb1/b4HtM3AaDCNSIUb4GWiPxPq3+645dt0aIW0w7IMt+nLWj7W78HOzvNQRsgJccu+ETGAi2KsTsKKrVthfOyJJhcpLGwVbcPYyrKhXfAlM1rY3+GkWhdG9LQJcBJla0EbdDNyHGm7pwvT15RuOq40d3s8uHpMQc9WGgiSNkLpgNqcYLikIObZHnOI7GpciEZL0KIKn4pcYCqbY8IHebGL2fEXVtcxXwKIoKNdna5Q+XV1wc6+EKgclnjtM9Y6Lj9J/Kr79KxCmg8JG6LT4RCmNqhSpusQwPTBmhBXOs70LbL8guh/iHFBut1NS1olm64qJyEHlVxg22vlKs93FLEBEHD7BJyrSK9yVigz5Dy1UNQQAIaR8If2Afu4SWTsjcOs4E6QbqWCchXZt5VdBRi7tnLpvQHAD37k9ZJJLQOoswduem1bkXVOXDuvBNShOuTIJl2AexXy965adOuymBKKWJY=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

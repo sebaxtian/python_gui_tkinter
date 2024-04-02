@@ -1,0 +1,74 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 561
+        length: 145
+        placeholder_text: '# TODO add an oval to the canvas'
+        initial_state:
+          length: 32
+          offset: 561
+        initialized_from_dependency: false
+        encrypted_possible_answer: chQwYgFaa8VzFfAQn+0GVRgVq4XEwKt8tqm8VS+OWB6yk4PHPognlSOrWK6OtYK5Zg8/UU8E2A1k14ZLOcVEqO/OBQ202+0xBsgNfQXKMKw=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 787
+        length: 31
+        placeholder_text: '# TODO add a line to the canvas'
+        initial_state:
+          length: 31
+          offset: 674
+        initialized_from_dependency: false
+        encrypted_possible_answer: xOjbuX+RAd7AzTE4Nr95riChMHyhAS8rk6bWVTZ7tDikcGJUbrxNbjR7iqJjCjaS
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 895
+        length: 30
+        placeholder_text: '# TODO add a arc to the canvas'
+        initial_state:
+          length: 30
+          offset: 782
+        initialized_from_dependency: false
+        encrypted_possible_answer: fqR/TTnMqJsJdLKKZwCbmyGUKIhQ0lZ2wqJ+Bae6z49bsDVYwvIlyhELZ5fjsXYu
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1089
+        length: 29
+        placeholder_text: '# TODO add text to the canvas'
+        initial_state:
+          length: 29
+          offset: 976
+        initialized_from_dependency: false
+        encrypted_possible_answer: iJCpx0VQwrxzVExLmek0V3TBqm6XicKaOgC2t9QbAi/B8QmVj72steWG/3AP9WSN3WXy5kueTw08Ky0/GaF1CEF67Z8C3x0CzJp/ha5IYwY=
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwMY6zmRAexlTs7gcHYYJftEiGpfSmJlfmibxyl7VJMlrHscauU1Vy+133LKHalIbg294Yf6SKGoLbPsxfo1gSn2PduaNpopf9n2lRMAayOoavXy9a8mJXd7pRfNNebE7/VaNMWa4FW1FtKnOac+pfs1m/NuXUXeG7r/GsvACOwqk3m2XdGZWCXXcSCyJqhIVvY75PhYV0CRBI92I/alDJSwtddFSScGxMvrQMhfDUEimMUFq1DaNrsjJS3sjndJCgtFPfHJBkZvRkxQA0rRUCYiK+oxwe/xfvAFaBRAxkaaoxAdvhqB8lJbW9zK8VtvMCPr+gY79YnTTR3LKz9adVJiYwOAf8bpAxVxWKSFk75QhED8mOPE7hcmtNjsLqlChGVdeNSsvPtNBkRNARp4ux1vwLi/xLXFu8sAUTQAuB63dEzJWMBEKIqszvvi+wnBThUr1ohqTbI64jIZxYjZrJzym6B4rZOdX/S/YYolMHMmkx8qtXtFRYslD6wn6pnfIeMF5LXHu6oGENSacbcAOCz8lh/gasjGitZcRf0c/ZVwn5VKiY4c7vgGfHSeAWnPT3sb4rvaFQra8utmG6xAaMbNyVN8uY7Tl7iXrUcktoxo6LAsv2oXEKxnrhOosiy69LtGN0IJR2melSQk4dMpNSWzSX6/w8lPwk4BXH5jCGI1KvNxuyjtwB12JXa5AOanE5sPmNVtVfR/xbFUjnZAPy8vrERcjzCgh073PRAmPbROgoTybNjIh83EsmaA7v74L1fdZ0yaueMIONFWUYk2HLkyY95yqugXvJyafCOzEjEJsVzQ7FESEiTWATdqh/B9bODktSClMkWzPadXB4ziV9rzB309lgre2b0zQvFAh8jk6spOhrhzmAATkSlBBD+thTwdk+gf/A5WsW1HP2uGjloN2C0CBbdFYzbYtA7BzURk75h5RLf2QTsXk/QPjLjhR3YmWV4FrUBDGEAs92HIrtrFvfQ1J8QHtqauH5U1lDqcW6kihXJEaXpjZUIY+9CV7YBUxSJmkha54LSQuApRA2ykmItMDvnjlbsMp4gXi+uPswTbM4uRVU68ncHE2KBHEEHrvH8+iwdUp128X4viy0elBT3O00yMOg77ZowV5q3Z3diXFj9BTyEGxjJTzTFx1CRtGCPSejXw51yKp3wX3DG5/p/iF+UPPnOzV37zhzV11zXqERnX3HnbecY1260x2NWPo/gEMFIHfTuFmVPekTWDpCmtm9Aa31wEpWZtCMy6zUXqL4m4xYuj9ET8iEcK39WNK/10I40Wuz1yVZQ6oONa395nERU3uT1P4JawKUJY5yFO3fsuLYxo58JyLE2rX0=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: expected_output_mac.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_win.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

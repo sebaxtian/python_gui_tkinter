@@ -1,0 +1,55 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 296
+        length: 73
+        placeholder_text: '# TODO finish the declaration of the save_menu submenu.'
+        initial_state:
+          length: 55
+          offset: 296
+        initialized_from_dependency: false
+        encrypted_possible_answer: CmEA59yyPLRRmnqQ8vSgiA==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 743
+        length: 106
+        placeholder_text: '# TODO add a"Save..."  command to the save_menu'
+        initial_state:
+          length: 47
+          offset: 725
+        initialized_from_dependency: false
+        encrypted_possible_answer: pH19kNHDAVdpzyZ2CUJjo+VXeIokNGtdJYQiWWKmcYUs6pCDrJzvepjCmjueSMke
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 850
+        length: 120
+        placeholder_text: '# TODO add a "Save as..." command to the save_menu submenu'
+        initial_state:
+          length: 58
+          offset: 773
+        initialized_from_dependency: false
+        encrypted_possible_answer: pH19kNHDAVdpzyZ2CUJjo+VXeIokNGtdJYQiWWKmcYW+kStgZCCENTwFP+xFqGKr
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwvl8GSqzEZGBUdqlRJffiSNHhs54sgu2nIZoL+ZepF/CN9hw/O1RUR9UIGoBcTTDQzUqazomOsBqCNRwvfxURMVORcNZ44pkNEH7VEM3Avr5EFSazPwWWTvRCHq9wwKDTa3SvSL3+xJ3xynqVvWEJnaOa0aX4MTb3W0pwA2IbLuCG9fT08AYiY0qc93Z8iKgeNY/DeF40+DAO/O8nFB0Dq/afABuoCu8guRcXZZS4+RkExZjwsH30ZUsGrAx1SAaPkn7cJ6UyU5HrXI56mb2+I9vbphE7mXVVNUtHvkhO60cdhXCiNGrymZWMxiBrSz94r5LPUivnI4uW9/TTqJ/Q7333VgzusLECf1v4gkefMo2ASrcrS1M8qXAMzTE1dkVSn+n2JioAE0Qk0zU4Xo9NSHOPywOy4rOTj0CXW/2mo+QJfq7VALBXpAN5eSRyaQGgqkQh/KMLtDKACI0WPP+oUaLhfZ3bk4Gr/parseiNNiEnizpKNvsvfhAaBqBdz0xoYbrVfrtaWbKMxLJmwBlRCUaEQXrdxchCgjXF5ZfCgZeU5zHTM5bdE9P4iJlcNY4MEjTmHC0Jh0dMyhb02foJdllRqMUxxi4C/oAcajMLXSof/JnMaqh4Wb/jwPVjC+RCIRWTFX++ODDc10tXEKpTR5zhGltg4XBozJh1/1wthrdx2+g4duNzk4sSUz6RJGqwSS+kFcf0NQI7c2axhcnYE8eMJvCWQ+jBWfpmwiZZvipFXog7GIt0lN66U+mJcgHKxH4TW0AJYPoZHuu3WvS86NehYgOZB7+JJ1AgvXFA0lRGRmZnufyeiK3FcDHHeElgMuAcRHznhNAzHQ8q3awS28U2Hjzh9TW9pCY0ODweuKi9jUefbX5T5Zyd8hj7aaaB0UI2yv+nvfwTDdETTIzqxoj9tpRh7Qcuj+5HX42OZzv0I2bhH5ek/i0SnZw9TsgKXHP/PY/Bozvf13UBt2LEmtuk/XAfPROCj7Rj0uVyAOMlOfV83FMoriM+ftuYMpkL28lzysMoVk2YKj5HWQSI5oRCIakez/MMigK5HRYkoWJy3FkyGadsXwkR0E5oY0MdnRlmoumfavzgKr7B4m39ssVA4IIaWral0/SWeQMzgTwFlji3HkaTQ7F8A35FvDnmkdIYHlY4xnvIyLZzruPHqz9spZAXFZGkFpXaCPEVJFA==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

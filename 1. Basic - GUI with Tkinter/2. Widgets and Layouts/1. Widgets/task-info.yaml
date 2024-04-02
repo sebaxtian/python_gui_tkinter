@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Does the window.pack() function make the window fit tightly around all the
+      widgets?
+    is_correct: true
+  - text: Does the window.pack() function help get your bags ready for school?
+    is_correct: false
+files:
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: main.py
+    visible: true
+    encrypted_text: TA5YWYDh6b+rZkpq/DUTC/ZcdJhP7lWdJuQvd7qlKDtIwqBf833uv0SrUeF+xGz786hH6yCdrWpyhd6Uw7rZ0w==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 20 Mar 2024 14:41:41 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: true

@@ -1,0 +1,74 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    placeholders:
+      - offset: 456
+        length: 112
+        placeholder_text: "# TODO create the final button, adding it to the bottom_frame"
+        initial_state:
+          length: 61
+          offset: 434
+        initialized_from_dependency: false
+        encrypted_possible_answer: MsdiGE9b7rvSwGDM/pXJ1BGKBRwwk6+iOigF4oB4gHvt6pTWIvqBYFLziRHcj/kjYB/4r85Y8gBVjf2NDhlubw==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 650
+        length: 73
+        placeholder_text: '# TODO pack the button onto the LEFT side of the frame'
+        initial_state:
+          length: 54
+          offset: 577
+        initialized_from_dependency: false
+        encrypted_possible_answer: ya6/KlPC4Jov9HeimYNSjIOYIx94G5Fi31pK1HQVJIw=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 731
+        length: 97
+        placeholder_text: '# TODO pack the button onto the LEFT side of the frame'
+        initial_state:
+          length: 54
+          offset: 639
+        initialized_from_dependency: false
+        encrypted_possible_answer: ya6/KlPC4Jov9HeimYNSjIOYIx94G5Fi31pK1HQVJIw=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 836
+        length: 73
+        placeholder_text: '# TODO pack the button onto the LEFT side of the frame'
+        initial_state:
+          length: 54
+          offset: 701
+        initialized_from_dependency: false
+        encrypted_possible_answer: ya6/KlPC4Jov9HeimYNSjIOYIx94G5Fi31pK1HQVJIw=
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwMY6zmRAexlTs7gcHYYJftEiGpfSmJlfmibxyl7VJMlrHscauU1Vy+133LKHalIbg294Yf6SKGoLbPsxfo1gSnmkOYu6NUXsJC+jgH7WsSeokz6z6nW/U4QYKhuzr7NxoZ4JL05NTvht8wFYGHlGs4OMopBYCK/O+tPQ7j5SokHsd8oXVb6PzND8NO2aDezIM9cws4Jd0tKgdsqFkVB0UBWMQnCLpVTxjR9LlL0VREO9kkDx5WEld/lEnar2OJgbEuuH9jtpWmpwLBpcu6fcbIlpKvVXH3Utnc4tlUuiYZa1L6p/NId6wSnD7fMd6LbhbT3BeDOh2nVEhjztMF9goTVA9hb1jwCRR26QBwAArWjBwSckKyJEx1Vaqnzl0laRE4DuV8pYeThPfCwjNt1iZUP1BVwmoPneim26+ejGhAtoEXklp7nrnc4Wgm/WA0rR4h0fpfhR/EWNADeAuusPnweI8RB4yEw1nQ91r5n1D6CdWr8B1UbTEJYejZ5E8UUuO8T+zTbttdhoBb6TSXCwG2rQdDdfJkk+PS6oy8ZkpWyBTmKECE/FEo2ckmZtocwuDDuSBiZwmWbEXpLeXs6rRBh4QzoMz+71ClhIkYu72CsQ9eesw7udRVhlpQGbgeg3JRrgnpYl8w/4cz5x0mwK/VaOcN1C291yF+VHwdL9rVq9pggDCna8qax1H90P/I5F/xObf5hz70j43eLR+XZnpLBqSYDUb35QKGdfUMx6fUezke4utxDBniRhqPSVA1If9hcMChMAICH2EKQCjxge1n7gh9cBfGPy/lP4Hj+5OBFW4IUXXxm0Fz3ShCR5NcS3/RfofvOmsbB8charnS5zDWkG0GVTBgsVS2+ZSJqH2O3eMKQ7Z6p21yorn10gmqDTkawRAOROpZkSQF8EQSbBTLi6Z4wt34Pkm3OFERLDzuNj8rlMeEw4rCagmQ2YhfOySDnAwsl0kmwkYzyjlK26fMgE8N1weMSrnXaZjZCwabexpnNNxYRRWKavRLmiM4lLE=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: expected_output_mac.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_win.bmp
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

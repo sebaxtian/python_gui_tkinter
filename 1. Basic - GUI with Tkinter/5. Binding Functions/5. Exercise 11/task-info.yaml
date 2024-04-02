@@ -1,0 +1,34 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 485
+        length: 162
+        placeholder_text: '# TODO bind to the windows input event for the right and left
+      arrow keys'
+        initial_state:
+          length: 72
+          offset: 485
+        initialized_from_dependency: false
+        encrypted_possible_answer: fhMT34K4l5JqiDAqGf9wfdmPaqj//1GtQ2W4gjmlIMR7kQXYKNZmceVdqzZfXuRWnA5adjW2bnCg4GebWPUrzwaG4+hz3EgDVD9VDf9pwWxnk6ZfbRBMIN9EBCGIx+el
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpixq7oS49Gy+0sqqhcJ4wMPmfr5YAORU4cnpJTsA4XUV27pal09OtYPgA85LugS4fGDZGxJ07AyWjC6MYTaX0PWWKWb1pwyeKD/31BPPgmo7mTsewuwX7/HlG/NE0/uYKATt+sai0Dg8DsXtYHt5p5tb1AiXqj0J7ZoNcWzk8pTxXLgEAJJ5QICav21peO0oNYUVNyJyL0Bp1d6irZqouqy3ui/5MJDLyYS1lUGnR+7iIOP1ug/JHc/PHN7uqlN/87hUuR0Qm+bpCbCl19Sse1JR+jxHnxn4LDxYigSH13APwCIXizTeEZfQQFs1zZbwpcNFUSwn4Ahy+95DSvQibPBJeMOqKyQ7hERtWSQriA1xxtwIB3amqkzqX8cVzjKcAfyiuDBH3Q15eB7Vdt399dNDoUNgMf51BoM6gtYZboQXl95pdi+wki5AnHdl6y/bjHACXZ7vPbM1OuaTWvX9QtVVjzL383dmQx/9oNzpqOW1Rn/KF9NnnzuframzjuN5T+17135ZFv+Oy40Wp6MiiTQDzBn9XBCrLKiJS3ubQDIyRftnK2cswfcHJf4DAXFwczlT2VTD4VLJQNzigeo2kpS8J49B9AENyolFw37NaCiSXHH5qKnxR6InR9OnxTORIOsLNqxRPbKGyFv+gWNtK0tITsjK0IYdHIiIHldGceG0D5Fj6ow+eB0F4jZNMMGhgWhYDr1XsiFjdKo2hRPLEda3K5DE/6DOnTs/UgbCYWUn1w==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

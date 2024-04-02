@@ -1,0 +1,45 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 698
+        length: 290
+        placeholder_text: '# TODO use the ipadx config option to make the buttons larger'
+        initial_state:
+          length: 61
+          offset: 698
+        initialized_from_dependency: false
+        encrypted_possible_answer: PoU6jzcqAmvBMFnNWaeLKwIJokwpnU0EuQp8rHeddKn0mQyfFlqFrWLvzRRg0WZsFxnBGWtOrAEYoKf+0wUw+JUszqGr+ktnL7sSXnWtvJihg9NwADIXoJFabvihd2Ya+etaauTKlqLbkzoV4WMiFINQ24WAAPns6hV+JE4s5N3Od5RleqOhcMTjZjKPBF72
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwMY6zmRAexlTs7gcHYYJftEiGpfSmJlfmibxyl7VJMlrHscauU1Vy+133LKHalIbg294Yf6SKGoLbPsxfo1gSnd4UdAUtjxlCXUJZ3g3rhVKAkxbll4hkUKva8jE/fXUfmVD7lggijJgjhEAuGrZ7aBUlLI5cLmC0xZdwRws0t0avh0QQ7NjbE1NcFwPkbh65EyaAI9IFWR4Nbc4XBrUH12k3KXQRAPr8AlHkx9n+8Kl8pO3FHVnk9nnMYrRyQctP1SaOcnXbgKo3XNBE2I+bmjbmU1sFiI6f1ZN9hay6IgnLvWWWKvlWZQrgKKIDhbKnjBng5uHjWE4QBDeYkJ5c2cx1B4I6JdeRJJRf9UOn/NbifWHBxcWFa/a942IOyqlrLLe4Ve9hwpcGq3AJnLVk/s/EhMdFy2laRjsWwh9je+Ixg/aqFuInXR43eOa/YpDML0Nx4S/TivV7FB6ukM5DXjRM8pnl8/nD0wV7Y33Qca8D5IvRBHsq4y1EMVOdxiq9YcglAI61gbKBNDBgo9gK1weIkP8XPUUJ6h6EAZua5tv9SRXNWAbyh2opldgnVX8EIJFThor7msFb2bHCEVGD1P147S0zsbrXF/0iMAibuqMr7SMZSmwuXO3zID9msluVv0dlaRpBfoo46cmcqIDM1hxTnLeZBoV21qHspUU0gn5WuoyJNtsunKlcL4Me+gJONaaAvlT8p0h+RRcrFXdC8SbuLDCwQUp0x16FO3AxUVrZcL9OSGSw8p92s3vvb91N268DmOKSDOtKMZvPHklV7zidtTbTD0XBUZcjNIvlHnTlYCT4SRr4QlGETFWjppVohN+i0hSH+LeeQ0kBWMco0juei5pYB9MQJk+nEulgc5HHTmvi2lXJ1w6LFd4A2f6IrJ1odCIemFtZ3pve2zhh43rgQyTtU83gFr97rZs62vCSu4ZDL4Bd3URXLPj1xAq/I7S2pRuQwLEXX82I+1I/DnJ2IbGNv4g/shLlXZkxJ2sy8p2tI1IZnmfhUrYyFGSA=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: expected_output_win.bmp
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_mac.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: example.bmp
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

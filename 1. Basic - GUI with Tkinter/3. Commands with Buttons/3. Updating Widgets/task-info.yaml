@@ -1,0 +1,34 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 171
+        length: 105
+        placeholder_text: '# TODO Use the config function to change the text of the text1
+      Label widget.'
+        initial_state:
+          length: 76
+          offset: 170
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4minO4kpD9mampJlJ/gxUhnOurLKS5OdG92H4h+Vg0Y=
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwvl8GSqzEZGBUdqlRJffiSNHhs54sgu2nIZoL+ZepF/IonUY/UEWfs5GVijyhhXdX0D3W7A5ScYc8z6KNR/bLgqg32Unjty8zxKKyxxdwz6tDD/X/KkDjh6l1BF3wHpyQdcMhkw+yc+43Ge0RKkIo5+7aFywuaJQFJ005BiAA0pD6NHXJBHED9dG/N6ACziUQmLOkebO1n/qjwMfPobrHmBtjza5+yg0+iZ9Pf3kxt/CN9Rj/ugyxae5jXG1XfTAWcAezVVc0xPX2l1VL4cEYVe7t01I4Op25ekIbVvcZ3P9dbqUiQyHKWGTAlzoUm6M18xwIb47q758lJzNQ9aoXz7tt8026uOv1DHABZq+J7oFbqH+oXdfczYNFOqNUrHf5QqEqGAEHF30cEBrXN98bDD8fOktljH1SuLnlSChjg0vxwJ8SBJLue3p6bgueftIuUWLDzQaX6/yTXVg4ILnuTHz+HtLnHAidY0MFrMxmJqJtoFhCSwMVd7UP6vxGaOlCVfpKE4YwYnTcQGD10GurF6xipeL3qtvklv5/H8vC5zLaykDdTJyfth1UYB+8AyRnRwbZOePLbBOamv5J6Sixoigb/hC2GxnOquYl0S5HgE28QknnZh1mPY8cSiK0jiE5Kxea9IQBq5kx+f73hnulq1XToFofvOMHDhhJS8Co1+Olm71GHlfz3GBhzEwk/knooHFIimh0Lz9ZWPQ+BpcrE5zTTZHVti5jE48T/uhb3N3bmr/Piaofd2qx47mns+PPrLpeAnh+iZ6DqxDQJkuhKlwLCM+MYdgiVJ5RGP20dQzZ8s6BKiDrdSZOeG6fSmO0=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

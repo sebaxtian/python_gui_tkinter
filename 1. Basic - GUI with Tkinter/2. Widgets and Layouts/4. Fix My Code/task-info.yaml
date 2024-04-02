@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: window = Tk() is not correctly initialized
+    is_correct: true
+  - text: logical bug in window.title("My second APP with mistakes")
+    is_correct: false
+  - text: misspelling in text1 = Label("Hello World")
+    is_correct: false
+  - text: tkinter is not imported
+    is_correct: true
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 20 Mar 2024 15:13:50 UTC"
+record: -1
+selected_options:
+  - 0
+  - 3
+custom_name: 4. Fix My Code!
+local_check: true

@@ -1,0 +1,67 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 70
+        length: 13
+        placeholder_text: '# TODO give the window a title'
+        initial_state:
+          length: 30
+          offset: 70
+        initialized_from_dependency: false
+        encrypted_possible_answer: ww3jwytFJVdAjSqHIOVKFBnDLjs3uATqbpIA/Mwkovc5ZC33XzItNKK50bpqlgahRL8FYA26B45btNlWNNEN2Q==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 84
+        length: 40
+        placeholder_text: '# TODO make the window 450 by 100 pixels'
+        initial_state:
+          length: 40
+          offset: 101
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9SZEcqVSyIdKkrFrEja/bNisJ3kmgrlhUhutijTaO6M=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 402
+        length: 57
+        placeholder_text: '# TODO pack the scale and spinbox widgets into the window'
+        initial_state:
+          length: 57
+          offset: 419
+        initialized_from_dependency: false
+        encrypted_possible_answer: RFU4PWBvNfCtSbrELQsqYn8u881c8UKOpxvhpi9+ar0=
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwMY6zmRAexlTs7gcHYYJftEiGpfSmJlfmibxyl7VJMlu8vJjmWa/h+ZUjGrGzz82hleNlpUOHGCMfTgXE5cTlHYId93zLPgKc/RgvgepRagjUt7YdguaZf5fiukUOdOpwEtMT1r2CjHhP7KLvP7v7AUkMWGTxS3VPBWOFMfNtvzSzA7yzbA6yISbZFiV4KLUZ46L5Aw32pQqdfJu72LGa+E9V2spiqMNOav7LxsSUwkRG2pUtAlnyLLOpgE6/YDiuM7AR4VbSOW2POI5nPRYNZJqCUnr5pP08PVqN+AovFP8uVz3leT0oTEw6QVVmtGtGLOg1PR/Ij67F2XPKDEaTe8iiKenaXwgBEGFQtqqMIan5WBF7/Hi60nFcDi9HpIMGb8QLJ86NPYBXCJFrXsWv8pqaRYMxOGhgl7U/lcCfGKHp6JJQOUrQ3h0kwL+nlDWYwgVUMtpSny+iVrALMSKQ8r1g+7z/09DIhi+66X8dGRjhpuy1Mym9EhJjKJxYwZY0kTPZac5PukuZ/5FRsSj6SCsSW9m+7YoLF2K43DZ/SbCLuq4lFZ/1f6myWYfTh5tIMKH8rEkgl6J9M03xC1zwk9qiRrguG9TB6w5qcxl6Ngc8Io3gr1OnbmDFFYyOfiiM=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: example.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_mac.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_win.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

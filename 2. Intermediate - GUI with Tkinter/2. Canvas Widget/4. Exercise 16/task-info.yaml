@@ -1,0 +1,67 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 245
+        length: 280
+        placeholder_text: '# TODO get the x position from the event'
+        initial_state:
+          length: 40
+          offset: 245
+        initialized_from_dependency: false
+        encrypted_possible_answer: nCuqdp17N9HaoiBm4aWfuWM/4IYhlHFNlxzePI0UWhI=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 530
+        length: 40
+        placeholder_text: '# TODO get the y position from the event'
+        initial_state:
+          length: 40
+          offset: 290
+        initialized_from_dependency: false
+        encrypted_possible_answer: NSC2qiVvJkdMTDy2hBT0s9nin/AhzWqEK4+s4WlPGsQ=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 636
+        length: 59
+        placeholder_text: '# TODO draw a rectangle with the mouse click at it''s center'
+        initial_state:
+          length: 59
+          offset: 396
+        initialized_from_dependency: false
+        encrypted_possible_answer: fEnb8BL+SYKi8vF7fyDn7BLYhT7Z/xext+sfFRX7fBJz4O3fm2PrEgp3IKR4HLO8uo7P9iZ8sL85ys/7MYD8PW7YWMig3k4ifmWW/ctUktc/gMIt3012GrtOnIOt7IHtRDf88M1BKSzvEkA85tqMQ0FBYQLDXg70/Ot2UeWC9ryqgqES/pLQzW7ff/tTXYkqidOSdoortlu16qTVJ81mwLMLIZ8dSSlSJ+jp6WWIxQtcteE+nrxz6ZTz/Tn+cQXyxR/hcHy62gPRvkozNO/Z93d3cRSp6kmuJX4fg6LeBm2PN58mcUxNE8gRx+LHpeG26LahtWsJF/4d9P02cCsGN1R8XnCX8ziAtJObcKDSShmyxneggpQh33uTuXFp4QJWp4NOqnFOezGtN51mdkna8pXPa3WWvUjoVLxD8Fuu1f+j01OG2oW8QqcFFScLBzc1BjS6Z4kQDFYP1cjShJ3iO10mux0tCD1aEH08Mr979lcrFx7OFvsGJNXxYDwzfNKu
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 954
+        length: 102
+        placeholder_text: '# TODO bind the draw_rectangle function to the input event
+      for mouse button 1 pressed and mouse moving'
+        initial_state:
+          length: 102
+          offset: 714
+        initialized_from_dependency: false
+        encrypted_possible_answer: LgEOt65jPwa2NJRqIzlxeyVWStuS64lKRkskwzPo3NVsttV4AObKfD3OtM3eS1H9
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwvl8GSqzEZGBUdqlRJffiSNHhs54sgu2nIZoL+ZepF/Gl+Oc+e8AZ8/DNDLawV8/z/aaO4jC+Tq1sLWA2IXoanNmPQjLY7zuLrRO+M5yE9GwjN8/D0NGYka/XXNZrk8C6Wn2nisZzVikO6Rtbxyp8fAREmcbxIjNbi5eWQWNsMicjTkDzOs9Zd2A3GE1xtQ2KBeE3hfZoGVusgBa+Vt19U78TFUj+Bog62hr9z6LySi2WOCBKNMMlah+J7CHMZGuARS9XPEsa6r0C+xf02ylAC99YrGsRI3Mg74ShFPlW/15+u4IyorDdfbC04f544fGi6CgE4ycAQGuhuRh95f9TwPV2WHGDP965YiuoYSiXgviqptxMSDlo9ojd7W+uYAnTbfxpkGWw6m/hWkQii2m+sfvvb9+5XOr9i5vJvbmwdv80G+SzEr76V30sPIxkuG0NHxlyFDBYuzqSWoXTPGwYEWQ1d1SsD8bftQceQo5nH93a6mpTTUaQ/lE12A91NwFmovb05gdwdyn16MPVeBkQ/qosK2GnzORt2eelstONmi2NBMXrgojnY788voxTaVi6U0IqsNTe++8lEJEfPtY0Lrnb5Bz85fhlrp+yGz9EIgbFd/wuKGLOeHHqGaPiTVz5hev5h+Wo8lrtVMpD7CeeV0wm3gRIu0pDQwOB3pJnXt32UmvMUmzLg10KYkUTAG1gSj+VhK/yvKVjaTNTDeacQf3bypHuHx7o/9lpCiEsSiVd/Z5FRrsCnSdSDXXULxNDwp4iRkc8UIpo5Wc0wweSkS078Qa6aMr/evcQdJTvtvb2u73IL/9BTJdokSJZh2jp2Ctkh4XPwAN9PUmVeKjUu27Zw5A56fu3E9EQKT+HzZm1xtEGbJxNrmBGhjXqPv9lMAxXoojBpMnjcG5FfEcp81hVQ3EEtFMdhmTy4UPvnTWlu0I7dhXh/hw09dZWKn81nXTeTf+zjeCvS7DzeM90elEVZ3Fjvs/sEzWNTqb8QupFRlcuSErJJrdqXLTwmMvFTG+YHoomAkKSB75IHnH1xH6iNFfgPJ2BQRj8KaDrlgWLZ4TfNRd4dXKuwdDVscmOuiqCqY/iFpLJrbWw1Pc54
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

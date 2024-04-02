@@ -1,0 +1,41 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 611
+        length: 250
+        placeholder_text: '# TODO place the remaining widgets using the grid layout'
+        initial_state:
+          length: 56
+          offset: 597
+        initialized_from_dependency: false
+        encrypted_possible_answer: b1rcIPwvxe8JOPKA7VLSz2aLXA0RixanDrmlkog7ngsgOKzddK0YawsuYsvm8LcSZfKTFb0uZ2ueUfp4MoPJ09ecz9JaVWC1HR2BYRyrKYqM01ITlOjkdYwwEllX3shORlAqmdNgDBh9ik2fZ9NKc4va6QUR+DjqnZ2aOIEcgylU6Tk/uAMQjCBAq2etusAjnIylbF0BRWp9FVSjxrla0E+sbZ9JSTDstBOWd5aB+WxRu66X5QDAZRdjy6sTAjsm
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwMY6zmRAexlTs7gcHYYJftEiGpfSmJlfmibxyl7VJMlrHscauU1Vy+133LKHalIbg294Yf6SKGoLbPsxfo1gSnd4UdAUtjxlCXUJZ3g3rhVKAkxbll4hkUKva8jE/fXUfmVD7lggijJgjhEAuGrZ7aEE0R9nP28qzAPQ1tw5gqzGWrXfZeHxKoA2882Af9oVUVltgR4DQamMr3htIPbp1IjDORfHNVUyE2jRl1/IeU9P8dGpuvugGqaYBE98zQTOMketBQZugdlnQiO3yAV3X0mPhBnDPMTt2vurrZnwMrMQS8Vt/lALOuQwyRgWFqNiRp6jp+mlL3X35LumaZkAVLdWxBBunPx93ogGFD7o6RWFhH3ILQlybHPiViQVelvu0eHNF4gvemHHVEAAHAcsUW1KgrSgLKHXMc99OFOm7uozpFBwXvODSANoR5DcqrixO3TLtjPy88M3ef0e/JQBY+xuDsuddBjJ8qc/+41BhqifP7XZuHXYHVuYsXDICrCX4uCYlprYbCVSpcgxu6XN1JDbbiALlm+9kN2/b61uSmTYWoMQNrKnSm4jMDAa1EvEsh/Z+vP9a9QjbMwWlCsa7e7Q2bswMtamCNcYFm0KG5XDizyza1uo77/sx1PnHv7Tay5nhwZQURYhsKUs5Rgw7JNIzxAbTzi1eL8igjThFNndIctJnJ8oxamTv5Xii5ZAeuIeZ7bGsetbMjRvh92iOEzN1FWI6sJSIHENWU+aCW9RhAxRtV5nlpXcby3XXTSc1CdYlC5oiuEJlXhkGUWUofCEDxmAuUh9ozzZcljaoBjm8yGl6wtFW1V2129miMwHYB0r6+nS25xW7nSTgBo+vsFTEmhSY890/DP3DYfIOC9g==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: expected_output_mac.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_win.bmp
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

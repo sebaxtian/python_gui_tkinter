@@ -1,0 +1,99 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 94
+        length: 100
+        placeholder_text: '# TODO update the text config of the message_label'
+        initial_state:
+          length: 50
+          offset: 94
+        initialized_from_dependency: false
+        encrypted_possible_answer: llsmP+P9TKvomfuGx7OnxyyURp/IcF1VNXZ5XL3fhVI=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 277
+        length: 72
+        placeholder_text: '# TODO get the value in the username_entry widget'
+        initial_state:
+          length: 49
+          offset: 227
+        initialized_from_dependency: false
+        encrypted_possible_answer: ABZVal/zq8Ef8ZCYhi0rGzH5Sg5HC+hoq2ilhG6SIo4=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 752
+        length: 116
+        placeholder_text: '# TODO clear the password_entry widget'
+        initial_state:
+          length: 38
+          offset: 679
+        initialized_from_dependency: false
+        encrypted_possible_answer: lJivvdNGjeuiPYB6V+YN5K4+a+R3ViM1JAs3jODjHXnJzw6Psq1eV9wRLPBoQm88IVOi7tUzba1l5hNRgA7RLQHqwmsg++3lZ7gRTM7DWfM=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1382
+        length: 59
+        placeholder_text: '# TODO config the button to run the login function'
+        initial_state:
+          length: 50
+          offset: 1221
+        initialized_from_dependency: false
+        encrypted_possible_answer: U6B1zFFcgm0C8F5e0V0YAQ==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1495
+        length: 69
+        placeholder_text: '# TODO config the button to run the clear_form function'
+        initial_state:
+          length: 55
+          offset: 1325
+        initialized_from_dependency: false
+        encrypted_possible_answer: X3fSIXfC7znKW8QZOYStjw==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1618
+        length: 73
+        placeholder_text: '# TODO config the button to run the exit_program function'
+        initial_state:
+          length: 57
+          offset: 1434
+        initialized_from_dependency: false
+        encrypted_possible_answer: S44pGLy+oHGm/9mBTWsRig==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1842
+        length: 268
+        placeholder_text: '# TODO layout the widgets using a grid'
+        initial_state:
+          length: 38
+          offset: 1642
+        initialized_from_dependency: false
+        encrypted_possible_answer: b1rcIPwvxe8JOPKA7VLSz2aLXA0RixanDrmlkog7ngsgOKzddK0YawsuYsvm8LcSZfKTFb0uZ2ueUfp4MoPJ0+ts24pU0bCzREo56N+zI/n1J/1Yd/3vJ9wdV6l81uejZwplLxKY+SuNhbjV+BR+AaDqqYRdv8fuNiKGI+uGNpgyNs1lJRWcjwpGpJN5net1hS43UYGMQx4QQX6qfeJTsTrRuusHA3PN2/hVEHZUsVd3OCSVZq7wDPqhA8kFquPavhKH1qHY/OxcNdwwuIxEjqb8JLI1neO62IfBSBYmcn+dubcDw8hYorA1jlkPu5pYF2yXfGHQCVIG6ZomsypUOoloPAtuLbTkawXp6+ut1yvL+TNMhbdmlADiRNAWRdXi
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: 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
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,55 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 567
+        length: 1256
+        placeholder_text: '# TODO create 4 menu''s on the menu_bar'
+        initial_state:
+          length: 38
+          offset: 567
+        initialized_from_dependency: false
+        encrypted_possible_answer: M5utABMvLMglCdPMsJJK0egZIRdAiYHRgly/CyR825Vad7oRtOPksejE0ZSy4NkPAnHswD9GkVVtwD3T3SGknm2Wt3k80HatFV31SH/jU0MtTEw5/AbLO1SEeWc3NTvyl7Aw2vxos+YqsJr4cBXr+w==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1824
+        length: 23
+        placeholder_text: '# TODO create a submenu'
+        initial_state:
+          length: 23
+          offset: 606
+        initialized_from_dependency: false
+        encrypted_possible_answer: sMdkqEdtEdt6rMjKHJMyYFO2rk+1buo9Sa/BCM0KL0A=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 1920
+        length: 45
+        placeholder_text: '# TODO configure your menus and menu commands'
+        initial_state:
+          length: 45
+          offset: 702
+        initialized_from_dependency: false
+        encrypted_possible_answer: lFg5EF//ZMwu959AZdJVmxF8VGubg3IvtXOBvZPP4C9HdNyAAth7lbGTpw7OOiE9IkE5bQ2AejaDYKDIPwMVb2L5YUNCcfMypRijgBfg44kxv3EXtpHH/Or9A+h5UMuLZTV/BOgZtOqu1JFsGKUnp42LzVJKQMSXxZdx6MvGYygl4x5r/ioAeyIKADXt2dpxeTxEKvzrzYV0v0t9oz6FXYP6CA+/EMDqsSL9DiZGaRnOidWlP5EW1gUs/WDut45TbHa1yLbiTJtlI48ygIFGwhgCP20zcva9VNb1o8fiy14NfE449vzTZyZzHdB+1h9iLOjP/8evGf/jux2UN7P/upS4EF9R5IRMPXt9bV1dEKK8duEEm31MGXV1SlWJwsDR3SE3rVScx9PkTxD4OfE7ggd1lBX8VANGnCu+qEH6xaJGyE4sCxjTDE5TYP3t2uOEXujjzw1XkMJWKA9fNOAdykkd7L+UEQl4N2R0SJXEoSe1iS4CBn0I/EzsjdYUchtci6RPV9cjkS67ixNGkARzphmaoSxVB/IxCVvXkUkofau5dAVLXNbb20McwqQo8UGPpnjPgO7oeUNmMGvLil6SAurRbM65EnrldfoUTnOWHezSm6orrIFEbu3JtRKJ3EX6aSqqOIYnn+9d2n8zasZJqJ30MfHH9zdZj8UzyAAddCarR5Klkr5/Hpl4V3yPz3ao3eDqO6zmNisgR7yF3k0bqzNNUqkXKAv9qERA/EniEzOSuU/8Ce5vX37kJj3K7LUlEPFXxd7fiAcK+HZ5TJYYc+sPzvqL2hnGhSQtqGbtoSuebBttRTXntbW5AblH3F+oN7rpUcxCtM2hxwWN4pk+nW2mxwdPVxDI2h1KYWfIQYEsZIHjF54s96LFXk7VTLOQ4+m5IMExTyGiws6LyxrV/LGE+9K94yMnck5TkbqWQT3yR1/vTlWS8Cdg/hE4GI0dmbFCcsbbv+fzom1H9rNKEZCP7gckp72zTWqTAi9aJzNixdqrhIQG9XSr3UDlTtoduWUL6Y5g5ZqoTZATbjJflpZRx7a/7t1WdnzJNlTwvVV/ACImAz2rQuTAQwRKQAEe8GjZacUVPlU2OdzE9eJCU4peCEeAvBJRZK7doMv4Kg+W/nflv8vmkiZfbmn16nQjmYkjE/S4mkE4eJOvdJ+TRLa0wte9JAKZOlAuIUbJnNbpAM6BJKNKoTi12nALYnYifT0JmlyOleq/8AghMNyKiMhOY6+/H+wfiqOS4rS3bvewyOr0+YYHkgoI55D4MMge+/6c8YuS8cDtBWr2jUEdBZq/TAFUlMapB4c2PlQsKjTSspbAplZg766GgUzYOGyMKb6WhiyZtlEpGYxRCQHnQSHfjeGhioeNd1ycNJBmPS8AKX81ulsXYmibtbucBkpJBi1uxpfmn8Q/zCdtZgOCzMtYokOB3AR/jxpeGt2mpn+JshYhDa0Sv8OVpeUR4RS4UY1A9LN1emq9U4R2o2ZgZ3oHIw4b5IaCJNteRLMLke+rlCLZcDIco6lnC5ELnDVXRx7gDSdgA0t3bAwoNh2e68UP0EPpVuxCw7hDZvVvGec+Tu8VQcG9pyMjvdr5cbDE
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpiwvl8GSqzEZGBUdqlRJffiSNHhs54sgu2nIZoL+ZepF/CN9hw/O1RUR9UIGoBcTTDQzUqazomOsBqCNRwvfxURMtS2VbGDOuzjZNnBCblPl3u9S+ks5RobOs4emjD1qoEjLvT9yvHSSTznt+qLT9ajsdWE9eKqulim7bDEp8REz2pjRXh5/xWVn1fiuBRJg8JiOF/b5EIqsYFCcjZKnpcpptE13Qo/lMn0sfdQL+gwnNmgYuOpj+xIibxv9FlHPH1ikOfCV9cNUx2MncBqU95lxpDVCzgs0sKhgCJhVTBtY7XewMTZ+1b97t/gwETc6nRYahMw5/LhaS7coV8hlhpMj9deVF9zHo2VIufJDaG5lu6x5+X7JZzrME2ZTO1/MeO02u8fiYCbH4jF+uhC36e/Uz6Kc+g/VxFbql5cXFigkh5sPqJMs6Xhl4wHuYQFKYzMXqaB6rTOZCqD2ehDY9e5cofuAN3LUIi3YHFTp3LHvbj8G+oHsW4GzB+d3v01qTqALCsJuchQbt28mTDcsCYAK80DXORruJTcY6Z84Y1Js4bzUf0AAaDb4dNDwhuOwCA+WVy1Hm/delDxuviALuUTi3rQr/i3CV3Iyy3Oc4lEDnR3qfESi99KFRsmPK50u8DE+PTZyPE7tQNpwVUUp8pQgh2AK4HCYGDBHJGFHRQQbLZPlQ+v4G9ZlwS6ivAhGyQ41j7EYHk2tj3jcvxn0xzIS8sYNk4RXs9U6Y9LKMzcfUicf7t1vn292ewCvwR2nQb6eZwNLpax+wBO3h1x8ZYfLopbBAO5Y1N7PlG1AJ2HI6sgNJYeSv3FUnf03o506vSUb5GSmmn2LZI6ZKTQEnuHe1oyCzoHCB70LhRdHK9tyPBBK7Jpt2/BFKZaruJ38/Wd/3kQKmy/d9eoLnaX8wjb/t24On3bJ9XL3YVH0jh423jk51Hc592kHb2Hnplj+aK4mS/OieUmoUv7X92wjJMvIg7XV/wzN+t7nK/bbig5t6Q4u3rIAeO9e4v/d5xVkr9ldZnRayNgUKnorz+FlR3tEvp7Qs40Y76Q2I+kATzJCg0gTs79LTvZADL7N/k9rvAm6kw+8oPTyZZQpQ8sfQomC3tFnTaHHCEiB3wQgNpoAA1XCPjBvzA166fclStbFNPNc/G3HLwyfn3KTbqLVTW6V
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

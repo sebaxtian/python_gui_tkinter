@@ -1,0 +1,45 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 66
+        length: 65
+        placeholder_text: '# TODO make a variable to store the previous colour'
+        initial_state:
+          length: 51
+          offset: 66
+        initialized_from_dependency: false
+        encrypted_possible_answer: aVu2O00O5e8IKAPC2/+iyN0yfklaGJw5TxAdgDibVJw=
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 157
+        length: 160
+        placeholder_text: '# TODO define a function that changes the window background
+      to the previous colour.'
+        initial_state:
+          length: 83
+          offset: 143
+        initialized_from_dependency: false
+        encrypted_possible_answer: GUynpgxA+veN5McWq/FTtkq6XHUW3OM+cyxAswhLOQKefblfgKWjAuaKNgr1Yl/sGuAaQULRTPfdQc45CZbfGSht9TR+RdmduxKYbHe3YzzQD+lhqPa4y2+wGgVz7Bw5kfxXkpJ8ld0q329PqAu/8g==
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: on4TUpID5Inh7yKO1oQaRPL0MnP6BTY7Vmd3EJrRpixq7oS49Gy+0sqqhcJ4wMPmfr5YAORU4cnpJTsA4XUV27IMqySQwxZoGCNG0B3eRVoVCA+Bhqja2JJ2pCa/Ci7z9AxQSCbGOxZVQRADpluEAEmPasYdwbDfH7Mz0yjOaJdHq6CEf76EdTLfco5W7lwiR4llsIHNuJY/v6Gi1UwPCTnJUiqEsZRcRJZIOvMaiqT6byEcn+H+sldP20CfFchPe+mAy64z8vEvmAbV8AHFKX1+xEa1HHnRsMrpLFcMeliQ5F35ffRlVY46d+210NDxvQ7Rp9CDbOPqKC7JNRV2By6DgokbIXDp/ds0b0j9dH5Z19sDnzmL/OjKCodjdftR5G5eSpFAQJQNugHyHy1IoAb/7K6U3mVH4W5B0VtLQtLbv5wtSwQ31IMn97wLNxH7EZRECVbaprLqOnlzz60WBBV8IJfXRuMTHuTBRncxSfddvwMw3IDwgbbcbXoLja81qmNT40Plq/aaJkgbvMJNJA0AUsGULWvZIusciUKLZ8CFTITA6ARLO7+Qrx0iM4c+dKCcEJZOcargw3QXn6ChmRQBP9IhWTF7aCbWosY1haHA61BgTmoEQhFNkVVNCl5bDFTptin3nAtR6YvZ+qk8sZKaatMfnsXpbNS/8v5I5l+w82nNzK9SfPmU1uu05ZDkei1mXzT8fypgtENixJdYhg==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

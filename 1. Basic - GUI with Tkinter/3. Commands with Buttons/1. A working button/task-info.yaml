@@ -1,0 +1,52 @@
+type: theory
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 79
+        length: 53
+        placeholder_text: '# TODO choose an name for your function.'
+        initial_state:
+          length: 40
+          offset: 79
+        initialized_from_dependency: false
+        encrypted_possible_answer: W5C9rT41590UXxzhPONLCw==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 266
+        length: 115
+        placeholder_text: '# TODO add the code to create a button.'
+        initial_state:
+          length: 39
+          offset: 253
+        initialized_from_dependency: false
+        encrypted_possible_answer: PwXphS46cYbMgv6cCTKJCtV3Wi9qNhgTH914b7obNTxjr2v9GeAAGxsGyqWwU/xDKslFrYlnPCv0ztf+PeVQyw==
+        selected: false
+        status: Solved
+        is_visible: false
+    encrypted_text: W3iylnKF1QTgAUuchMBujtNqNdHXqBhoX3Fz2iqJnAMzHcsjExHAyNimJ+n03EYS1PGEyS59Bsf+sGMWLothysaIaRiVdwtt/ak4L8XGn2b6OnXmNOLykQ35+kBxclJn+ctFCNl5ewKOEX8srjN2gr0i9sXqNAdABDi/zyMIyCncmpfcZ+zXTVW6OkF5JVu86darN6mYFOHmvko2gGlt+Dsu/Qlz/q4kaxhEfvW0xnL1ZBXd0f+DX3FABKtv0bMwpZ4+wd1LDmxga8O8diDJy7atgb4dP5CV/1vLr7b/b5nbh/3clA2w6VrmDbphT83F7ODVZYBGXMkJev+hxf55aVTEwJ1WTrYrzxRscaO4u7KdLozfueTfOEMhk/FiOGm5dtUsjfdb2IwsrCM/h3eTVpL0fTy1b3i/SSn2v6T0SzWRSbFyzTvfhmbB7BGo3aQB
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdaVQBhDp+FnSJ9qmqvKfkt/LSleYDlT5YsbPgCsrmU7/v6tsLEgGcWDno0UG2/54QF22wFs8aU9ccwZyoSvlG46hNsLG/mPEVxDKYwBcsfZSEZff4mb4LVrxfPylfnn1Ec/oh7xeU535wuzLRkACiQmiyZVoNXW9LApO86BNWasgt5xOaGpR2F5+iZwr/M0qAw==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: expected_output_mac.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: expected_output_win.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true
